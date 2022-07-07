@@ -1,0 +1,3 @@
+﻿  LaunchPlay.cpp
+C:\Users\Admin\Desktop\Game xếp gạch\Tetris\Tetris\LaunchPlay.cpp(16,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Tetris.vcxproj -> C:\Users\Admin\Desktop\Game xếp gạch\Tetris\Debug\Tetris.exe

@@ -1,0 +1,4 @@
+﻿>tạo margin trong D34_Button
+>cập nhật chỉ cho context hiển thị được trong button
+>cập nhật hàm Reward của ManageTetromino
+>cập nhật thêm thiết kế cho block
